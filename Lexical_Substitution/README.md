@@ -1,5 +1,5 @@
 
-# Homework 2
+# Lexical Substitution
 
 ## Installation
 

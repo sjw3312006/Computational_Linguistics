@@ -1,5 +1,5 @@
 
-# Homework 0
+# Probablity linear algebra and calculus
 
 ## Installation
 

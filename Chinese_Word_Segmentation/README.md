@@ -1,5 +1,5 @@
 
-# Homework 1
+# Chinese Word Segmentation
 
 ## Installation
 
